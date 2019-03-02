@@ -1,0 +1,43 @@
+﻿@using ShopClient.Models.ViewModels
+@using ShopClient.Models
+@{
+    ViewData["Title"] = "Index";
+}
+@model ShopClient.Models.ViewModels.CreateProductViewModel
+<div class="row">
+    <div class="col-md-4">
+        <section>
+            <h4>@ViewData["Title"]</h4>
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price"></label>
+                    <input asp-for="Price" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description"></label>
+                    <input asp-for="Description" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label><input name="type" type="radio" value="@Product.ProductType.Freesia" />Freesia</label>
+                    <label><input name="type" type="radio" value="@Product.ProductType.Peony" />Peony</label>
+                    <label><input name="type" type="radio" value="@Product.ProductType.SeaSalt" />SeaSalt</label> 
+                    <label><input name="type" type="radio" value="@Product.ProductType.WildBlueBell" />WildBlueBell</label>
+                </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-default" formaction="/Product/CreateProduct">Save</button>
+                    </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+
+
+
+
+

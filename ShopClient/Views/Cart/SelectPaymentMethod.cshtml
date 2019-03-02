@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "SelectPaymentMethod";
+}
+@inject ShopClient.Models.Clients.UserClient userclient
+<h1>Please select your Payment Method</h1>
+<form method="post">
+    <div class="form-group">
+        <ul>
+            @foreach (var py in userclient.GetCurrentUser().GetPaymentMethods())
+            {
+                <li>
+                    <label><input name="cardNum" type="radio" value="@py.CardNum" />@py.CardNum</label>
+                </li>
+            }
+        </ul>
+       
+</div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-default" formaction="/Order/CreateOrderAsync">Save</button>
+    </div>
+</form>

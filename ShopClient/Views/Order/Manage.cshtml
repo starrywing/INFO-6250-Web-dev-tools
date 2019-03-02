@@ -1,0 +1,23 @@
+﻿@using ShopClient.Models.Clients
+@using ShopClient.Models
+@{
+    ViewData["Title"] = "Manage";
+}
+@inject ShopClient.Models.Clients.UserClient uc
+@inject ShopClient.Models.Clients.OrderClient oc
+<h1>Manage</h1>
+
+<ul>
+    @*@if(null!= await oc.GetOrderByIdAsync(uc.GetCurrentUser().Id)) {*@ 
+    @foreach (Order o in await oc.GetOrderByIdAsync(uc.GetCurrentUser().Id))
+    {
+    <li>
+        <h2>Order Id:@o.Id</h2>
+        <h2>User Id:@o.UserId</h2>
+        <h2>Order Total:@o.GetTotalAmount()</h2>
+    </li>
+    }
+    @* } *@
+</ul>
+
+

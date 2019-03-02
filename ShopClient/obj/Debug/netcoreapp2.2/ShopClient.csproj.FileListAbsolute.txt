@@ -1,0 +1,220 @@
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+E:\Study\Workspace\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Manage.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Manage.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Wallet\Index.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Wallet\Create.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\SelectPaymentMethod.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\CheckoutComplete.g.cshtml.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoginError.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.deps.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.runtimeconfig.dev.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.dll
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.dll
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\bin\Debug\netcoreapp2.2\ShopClient.Views.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csprojAssemblyReference.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CoreCompileInputs.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorAssemblyInfo.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfoInputs.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.AssemblyInfo.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.input.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.TagHelpers.output.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorCoreGenerate.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoginError.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\CheckoutComplete.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Cart\SelectPaymentMethod.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Product\Manage.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Wallet\Create.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Wallet\Index.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.RazorTargetAssemblyInfo.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.Views.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.dll
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\ShopClient.csproj.CopyComplete
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Order\Index.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Order\Success.g.cshtml.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopClient\ShopClient\obj\Debug\netcoreapp2.2\Razor\Views\Order\Manage.g.cshtml.cs

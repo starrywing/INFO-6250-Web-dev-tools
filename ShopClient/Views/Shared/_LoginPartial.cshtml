@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewData["Title"] = "_LoginPartial";
+}
+@inject ShopClient.Models.Clients.UserClient userclient
+<ul id="login_partial" class="loginPartial navbar-nav">
+    @if (userclient.IsSignedIn())
+    {
+        <li class="nav-link text-dark dropdown">
+            <a class="dropdown-toggle text-dark" data-toggle="dropdown" href="#"> @userclient.GetCurrentUser().Username</a>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item text-dark" asp-controller="Order" asp-action="Manage">My Order</a></li>
+                <li><a class=" dropdown-item text-dark" asp-controller="Wallet" asp-action="Index">My Wallet</a></li>
+                <li><a class=" dropdown-item text-dark" asp-controller="Account" asp-action="Logout">Log out</a></li>
+            </ul>
+        </li>
+        <li class="nav-item">
+            <a class="cartstatus "
+               asp-controller="Cart"
+               asp-action="Index">
+                <div class="cartstatus-image">
+                    <img src="~/images/cart.png" />
+                </div>
+                <div class="cartstatus-badge">
+                    @userclient.GetCurrentUser().GetCart().CountOrderItems()
+                </div>
+            </a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <form method="post" class="form-inline">
+                <button type="submit" class="nav-link btn btn-link text-dark" formaction="/Account/Register">Register</button>
+            </form>
+        </li>
+        <li class="nav-item">
+            <form method="post" class="form-inline">
+                <button type="submit" class="nav-link btn btn-link text-dark" formaction="/Account/Login">Login</button>
+            </form>
+        </li>
+    }
+
+</ul>
+
+
+
+<style>
+    .loginPartial {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .cartstatus {
+        cursor: pointer;
+        display: inline-block;
+        float: right;
+        position: relative;
+        transition: all 0.35s;
+    }
+
+        .cartstatus.is-disabled {
+            opacity: .5;
+            pointer-events: none;
+        }
+
+    .cartstatus-image {
+        height: 24px;
+        margin-top: .5rem;
+    }
+
+    .cartstatus-badge {
+        background-color: #83D01B;
+        border-radius: 50%;
+        color: #FFFFFF;
+        display: block;
+        height: 1.5rem;
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        top: 0;
+        transform: translateX(-38%);
+        transition: all 0.35s;
+        width: 1.5rem;
+    }
+
+    .cartstatus-badge-inoperative {
+        background-color: #ff0000;
+        border-radius: 50%;
+        color: #FFFFFF;
+        display: block;
+        height: 1.5rem;
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        top: 0;
+        transform: translateX(-38%);
+        transition: all 0.35s;
+        width: 1.5rem;
+    }
+
+    .cartstatus:hover .cartstatus-badge {
+        background-color: transparent;
+        color: #75b918;
+        transition: all 0.35s;
+    }
+</style>

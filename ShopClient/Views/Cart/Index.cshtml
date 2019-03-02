@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@inject ShopClient.Models.Clients.UserClient userclient
+@inject ShopClient.Models.Clients.ProductClient productclient
+<div>
+    <br />
+    <h1 style=" font-family:Papyrus">Your Cart:</h1>
+    <br />
+</div>
+
+
+<body class="cart-body">
+    <table style="width:80%" cellpadding="2" cellspacing="2" border="1">
+        <tr style="font-family: Script MT">
+            <th>Option</th>
+            <th>Name</th>
+            <th>Photo</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Sub Total</th>
+        </tr>
+        @foreach (var item in userclient.GetCurrentUser().GetCart().orderItems)
+        {
+            <tr>
+                <td><a asp-controller="cart" asp-action="RemoveAsync" asp-route-id="@item.ProductId">Remove</a></td>
+                <td>@item.ProductName</td>
+                <td><img src="~/Images/@item.ProductImageUri"+ width="60" /> </td>
+                <td>@item.ProductPrice</td>
+                <td>@item.Quantity</td>
+                <td>@item.GetTotal()</td>
+            </tr>
+        }
+        <tr>
+            <td align="center" colspan="5">Total Amount:</td>
+            <td>
+                @userclient.GetCurrentUser().GetCart().GetTotalAmount()
+            </td>
+        </tr>
+    </table>
+    <br> <br>
+    <a style="font-family: Script MT" class="btn btn-outline-primary" asp-controller="home" asp-action="index">Continue Shopping</a>
+    <a style="position: relative; left: 600px; font-family: Script MT" class="btn btn-outline-primary" asp-controller="Cart" asp-action="SelectPaymentMethod">To Checkout</a>
+
+</body>
+<style>
+    .item-title {
+        position: absolute;
+        top: 8%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+        font-family: 'Script MT';
+    }
+
+    .pos_right {
+        position: relative;
+        left: 100px;
+    }
+
+    .cart-body {
+        min-height: 100%
+    }
+</style>

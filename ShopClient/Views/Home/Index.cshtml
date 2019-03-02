@@ -1,0 +1,103 @@
+﻿
+@using ShopClient.Models.Clients
+@{
+    ViewData["Title"] = "Home Page";
+}
+@inject ShopClient.Models.Clients.ProductClient client
+<div id="head-banner" class="text-center">
+    <h2 id="head-title" class="display-4" style=" font-family:Papyrus">Find the scent of your soul </h2>
+    <h3 id="head-title" >__________________________________________</h3>
+</div>
+<hr>
+<div>
+    <div id="item-group" class="row">
+            @foreach (var item in await client.GetProductAsync())
+            {
+        <div class="item-container col-md-3">
+            <h6 class="item-title" style="text-align:center">@item.Name</h6>
+            <img class="image1" src="~/Images/@item.Photo" alt="Item">
+            <div class="overlay1">
+                <div class="text1">
+                    <p>
+                        <a  class="add-to-btn btn btn-outline-primary" asp-controller="Cart" asp-action="AddAsync" asp-route-id="@item.Id"> Add To Cart</a>
+                    </p>
+                </div>
+            </div>
+           
+        </div>
+             }
+    </div>
+</div>
+
+<style>
+    .item-container {
+        position: relative;
+        width: 50%;
+    }
+
+    .item-title {
+        position: absolute;
+        top: 8%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+        font-family: 'Script MT';
+    }
+    .price-tag {
+        position: absolute;
+        display: inline-block;
+        top:40%;
+        left: 50%;
+        font-size: 2rem;
+        font-family: 'Script MT';
+    }
+    .image1 {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .overlay1 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(112, 108, 108,0.3);
+        overflow: hidden;
+        width: 100%;
+        height: 0;
+        transition: .5s ease;
+    }
+
+    .item-container:hover .overlay1 {
+        height: 18%;
+    }
+
+    .text1 {
+        white-space: nowrap;
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        overflow: hidden;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+    .text-center {
+        position: relative;
+        background: url("../Images/banner.jpg") no-repeat;
+        height: 300px;
+        width: 100%;
+    }
+    #head-title {
+        position: relative;
+        top: 100px;
+        left: 15%;
+        opacity: 0.95;
+    }
+    .add-to-btn {
+       display:inline;
+    }
+    
+</style>

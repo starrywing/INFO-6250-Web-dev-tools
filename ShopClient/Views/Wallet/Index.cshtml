@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Your Payment Methods</h1>
+
+<ul>
+    @if (@Model.Capacity == 0)
+    {
+        <li> Please Add a payment method </li>
+    }
+    else
+    { @foreach (var p in @Model)
+       {
+            <li> @p.CardNum </li>
+       }
+    }
+</ul>
+
+<a class="btn-outline-primary text-dark" asp-controller="wallet" asp-action="Create" > Add PaymentMethod</a>
