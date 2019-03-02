@@ -1,0 +1,84 @@
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+E:\Study\Workspace\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.0\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+C:\Users\huang\OneDrive\Desktop\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.deps.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.runtimeconfig.dev.json
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.dll
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\bin\Debug\netcoreapp2.2\ShopServer.pdb
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csprojAssemblyReference.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.csproj.CoreCompileInputs.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorAssemblyInfo.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfoInputs.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.AssemblyInfo.cs
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.RazorTargetAssemblyInfo.cache
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.dll
+E:\杂乱\Version1.0\Version 2.2\Les'florence Shop\ShopServer\ShopServer\obj\Debug\netcoreapp2.2\ShopServer.pdb
